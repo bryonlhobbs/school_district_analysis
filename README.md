@@ -17,7 +17,7 @@
 
 <img width="907" alt="Per_School_Analysis_After" src="https://user-images.githubusercontent.com/99457275/160256896-73129453-135f-4676-a2d2-6e721d5d4cda.png">
 
-    All of the averages went down slightly, except Average Reading Score.
+  All of the averages went down slightly, except Average Reading Score.
 
   - Given the negligible changes in the average scores, Thomas High Scool's performance in relation to the other schools remains unchanged, as can be seen below, with before on the left, and after on the right.
 
