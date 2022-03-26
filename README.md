@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview
-  In this challenge, I was asked to re-analyze student data after it was determined that ninth graders at Thomas High School engaged in academic dishonesty.  In doing so, I needed to remove scores from these students based on scholol and graade.  Then, I needed to re-calculate averages for reporting.  Finally, I needed to redo the analysis for factors like school spending, school size, and type of school.
+  In this challenge, I was asked to re-analyze student data after it was determined that ninth graders at Thomas High School engaged in academic dishonesty.  In doing so, I needed to remove scores from these students based on scholol and grade.  Then, I needed to re-calculate averages for reporting.  Finally, I needed to redo the analysis for factors like school spending, school size, and type of school.
 
 ## Results
 
@@ -17,7 +17,7 @@
 
 <img width="907" alt="Per_School_Analysis_After" src="https://user-images.githubusercontent.com/99457275/160256896-73129453-135f-4676-a2d2-6e721d5d4cda.png">
 
-  All of the averages went down slightly, except Average Reading Score.
+    All of the averages went down slightly, except Average Reading Score.
 
   - Given the negligible changes in the average scores, Thomas High Scool's performance in relation to the other schools remains unchanged, as can be seen below, with before on the left, and after on the right.
 
